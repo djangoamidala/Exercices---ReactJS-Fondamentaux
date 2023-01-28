@@ -1,0 +1,17 @@
+.card {
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    background-color: rgba(120, 47, 47, 0.234);
+    border-radius: 20px;
+}
+.card__title {
+    font-size: 30px;
+}
+.card__image {
+    width: 300px;
+}
+.card__description {
+    font-weight: 600;
+
+}
